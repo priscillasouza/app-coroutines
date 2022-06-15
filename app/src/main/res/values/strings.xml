@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CoroutinesApp</string>
+    <string name="text_hint_name">Digite seu nome aqui</string>
+    <string name="text_item_recycler_view">ola</string>
 </resources>
